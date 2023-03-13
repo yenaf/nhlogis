@@ -90,7 +90,8 @@
 .main .system .txt .paging li:last-child{margin-right: 0;}
 .main .recruit{height: 750px; color: #fff; text-align: center;background-repeat: no-repeat;background-size: cover;background-position: 0 50%;background-image: url(../images/recruit_bg.png);}
 .main .recruit .inner{padding: 120px 0;}
-.main .recruit h2{color: #FFE920;}
+
+.main .recruit h2{color: #167E55;}
 .main .recruit h2+p{margin-bottom: 70px;}
 .main .recruit ul{display: flex;justify-content: center;}
 .main .recruit ul li{width: 260px;margin-right: 100px;}
