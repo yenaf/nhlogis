@@ -38,6 +38,7 @@
 .site-map .gnb li ul{border-top: 3px solid #000;margin-top: 15px;padding-top: 15px;}
 .site-map .gnb li ul li{margin-bottom: 15px;}
 .site-map .gnb li ul li a{font-size: 18px;border-bottom:none;font-weight: 400;}
+.site-map .gnb li ul li:hover a{color: #167E55;}
 
 #mainVisual{width: 100%;position: relative;} 
 #mainVisual h2{font-size: 50px;position: absolute;left: 275px;top: 50%;transform: translateY(-50%);  z-index: 50;color: #fff;}
@@ -153,10 +154,11 @@
 #footer .family{position: absolute;right: 0;top: 75px;}
 #footer .family>a{font-size: 18px;width: 300px;height: 65px;border-radius: 30px;background: #fff;display: block;text-align: center;line-height: 65px;}
 #footer .family a i{margin-left: 90px;}
-#footer .family div{width: 670px;height: 410px;position: absolute;left: -375px;top: -415px;border: 2px solid rgb(177, 177, 177);display: flex;background: #fff;opacity: 0;pointer-events: none;}
+#footer .family div{width: 670px;height: 410px;position: absolute;left: -375px;top: -415px;border: 2px solid rgb(177, 177, 177);display: flex;background: #fff;opacity: 1;}
 #footer .family div ul{margin-right: 30px;padding: 20px;box-sizing: border-box;}
 #footer .family div ul>h3{font-size: 16px;font-weight: 500;border-bottom: 1px solid rgb(177, 177, 177);margin-bottom: 10px;padding-bottom: 10px;}
-.topbtn { position: fixed; right: 0; bottom: 30px; width: 0px; background:#FFE920; height: 40px; line-height: 40px; border-radius: 20px 0 0 20px;  color:#fff; text-align: center;  opacity: 0 ;  overflow:hidden; transition:0.5s; font-size: 15px; text-indent: 20px;z-index: 100;}
+#footer .family div ul li:hover a{color: #167E55;}
+.topbtn { position: fixed; right: 0; bottom: 30px; width: 0px; background:#FFE920; height: 40px; line-height: 40px; border-radius: 20px 0 0 20px;  color:#fff; text-align: center;  opacity: 0 ;  overflow:hidden; transition:0.5s; font-size: 15px; text-indent: 20px;z-index: 100; cursor: pointer;}
 .topbtn a{color: #000;}
 .topbtn.show{overflow:visible;width:100px;background:#FFE920;color:#fff; opacity:1;text-indent: 0;}
 
