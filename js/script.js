@@ -150,10 +150,7 @@ function con_business(){
 
 function family_site(){
     $('#footer .family').on('click',function(){
-        $('#footer .family div').css({opacity:1})
-    })
-    $('#footer .family').on('mouseleave',function(){
-        $('#footer .family div').css({opacity:0})
+        $('#footer .family > div').toggle();
     })
 }
 
