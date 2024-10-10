@@ -9,3 +9,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,figma,jquery)](https://skillicons.dev)
 
 ## 시연영상
+
+![ezgif-6-aad0f0c908](https://github.com/user-attachments/assets/fbb02932-fde4-4afc-bc34-eb70ded308f6)
