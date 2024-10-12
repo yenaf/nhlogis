@@ -1,10 +1,10 @@
 <h1 style="display:none">NHLogis</h1>
 <img src="https://capsule-render.vercel.app/api?type=Waving&&color=388E3C&height=300&section=header&text=🚛%20NHLogis%20&fontSize=90&fontColor=fff" />
 
-<p style="text-align:center">
-<a href="https://www.nhlogis.co.kr">🔗 Original Link</a>&nbsp;
-<a href="https://www.figma.com/design/zviwqDW4wgk8ErU5mO8Wba/%EB%86%8D%ED%98%91%EB%AC%BC%EB%A5%98?node-id=1-2&t=MitlwGjvZX1f0YwK-1">🔗 Figma</a>&nbsp;
-<a href="https://github.com/yenaf/nhlogis_m">🔗 Github(NHLogis Mobile)</a>
+<p align="center">
+🔗<a href="https://www.nhlogis.co.kr">Original Link</a>&nbsp;
+🔗<a href="https://www.figma.com/design/zviwqDW4wgk8ErU5mO8Wba/%EB%86%8D%ED%98%91%EB%AC%BC%EB%A5%98?node-id=1-2&t=MitlwGjvZX1f0YwK-1">Figma</a>&nbsp;
+🔗<a href="https://github.com/yenaf/nhlogis_m">Github(NHLogis Mobile)</a>
 </p>
 
 <p align="center">
