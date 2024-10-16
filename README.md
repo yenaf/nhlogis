@@ -23,6 +23,8 @@
 기존의 농협 물류 웹 사이트의 메인 페이지를 사용자 중심의 디자인으로 새롭게 리뉴얼 했습니다.
 </p>
 
+![농협물류 리뉴얼](https://github.com/user-attachments/assets/9d2277f5-eb70-4ccf-b5dc-dcf65f513aac)
+
 ## 🟢 DEMO VIDEO
 
 ![ezgif-6-aad0f0c908](https://github.com/user-attachments/assets/fbb02932-fde4-4afc-bc34-eb70ded308f6)
