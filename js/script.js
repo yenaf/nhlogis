@@ -160,7 +160,7 @@ function con_business() {
 
 function family_site() {
   $('#footer .family').on('click', function () {
-    $('#footer .family > div').toggle();
+    $('#footer .family > .family-wrap').toggle();
   });
 }
 

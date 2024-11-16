@@ -721,7 +721,11 @@
 #footer .family a i {
   margin-left: 90px;
 }
-#footer .family div {
+
+#footer .family .family-wrap {
+  display: none;
+}
+#footer .family div div {
   width: 670px;
   height: 410px;
   position: absolute;
