@@ -725,7 +725,7 @@
 #footer .family .family-wrap {
   display: none;
 }
-#footer .family div div {
+#footer .family .family-wrap div {
   width: 670px;
   height: 410px;
   position: absolute;
@@ -736,19 +736,19 @@
   background: #fff;
   opacity: 1;
 }
-#footer .family div ul {
+#footer .family .family-wrap div ul {
   margin-right: 30px;
   padding: 20px;
   box-sizing: border-box;
 }
-#footer .family div ul > h3 {
+#footer .family .family-wrap div ul > h3 {
   font-size: 16px;
   font-weight: 500;
   border-bottom: 1px solid rgb(177, 177, 177);
   margin-bottom: 10px;
   padding-bottom: 10px;
 }
-#footer .family div ul li:hover a {
+#footer .family .family-wrap div ul li:hover a {
   color: #167e55;
 }
 .topbtn {
