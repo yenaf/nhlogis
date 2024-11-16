@@ -3,7 +3,7 @@
 
 <p align="center">
 🔗<a href="https://www.nhlogis.co.kr">Original Link</a>&nbsp;
-🔗<a href="https://www.nhlogis.co.kr">Renewal Link</a>&nbsp;
+🔗<a href="https://yenaf.github.io/nhlogis/">Renewal Link</a>&nbsp;
 </p>
 
 <p align="center">
