@@ -3,6 +3,10 @@
 
 <p align="center">
 🔗<a href="https://www.nhlogis.co.kr">Original Link</a>&nbsp;
+🔗<a href="https://www.nhlogis.co.kr">Renewal Link</a>&nbsp;
+</p>
+
+<p align="center">
 🔗<a href="https://www.figma.com/design/zviwqDW4wgk8ErU5mO8Wba/%EB%86%8D%ED%98%91%EB%AC%BC%EB%A5%98?node-id=1-2&t=MitlwGjvZX1f0YwK-1">Figma</a>&nbsp;
 🔗<a href="https://github.com/yenaf/nhlogis_m">Github(NHLogis Mobile)</a>
 🔗<a href="https://tarry-llama-072.notion.site/NHLogis-Renewal-115b4ea6ff1080caa07fdedaeca6bfe9">Notion</a>
