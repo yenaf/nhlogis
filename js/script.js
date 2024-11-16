@@ -159,8 +159,8 @@ function con_business() {
 }
 
 function family_site() {
-  $('#footer .family').on('click', function () {
-    $('#footer .family > .family-wrap').toggle();
+  $('#footer .family>a').on('click', function () {
+    $('#footer .family .family-wrap').toggle();
   });
 }
 
